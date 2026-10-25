@@ -1,2 +1,3 @@
 # civc-fix
-CivicFix uses AI to detect potholes, blocked drains, damaged streetlights, and civic issues. It automates complaint tickets, emails authorities, tracks progress, and escalates unresolved complaints after 15 days to improve public safety and accountability
+Hi everyone, we’re presenting CivicFix, an AI-powered tracker for public infrastructure issues. Our idea is simple: Report. Track. Escalate. Fix.
+our ppt:[Uploading SURVEILLANCE EXAMPLE NO HELMET (2).pdf…]()
